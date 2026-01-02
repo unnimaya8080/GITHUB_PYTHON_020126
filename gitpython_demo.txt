@@ -6,3 +6,5 @@ Main git commands are:
 2. git commit -m "Message"
 
 3.  git push
+
+4. git pull
