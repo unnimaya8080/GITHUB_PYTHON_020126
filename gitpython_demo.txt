@@ -9,4 +9,4 @@ Main git commands are:
 
 4. git pull
 
-new code written in remote repo
+new code written in remote repos
